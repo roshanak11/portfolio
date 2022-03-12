@@ -1,0 +1,83 @@
+h1, h2, h3 {
+  font-family: 'Fredoka', sans-serif;
+  text-align: center;
+  color: palevioletred;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: skyblue;
+  font-style: bold;
+}
+
+.mainSection {
+  border-style: dashed;
+  border-color: silver;
+}
+
+#about {
+display: flex;
+flex-direction: row;
+flex: 1
+}
+
+nav, img {
+  text-align: center;
+}
+
+#projects {
+  display: flex;
+  flex-direction: row;
+}
+
+header, h1, header a, footer, footer a, footer h2, h3 {
+color: white;
+background: palevioletred;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+
+article {
+  padding: 0px 80px;
+  justify-content: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  flex: 4;
+  height: 100vh;
+}
+
+header, footer {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 5vh;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding: 0px 1px;
+}
+ .projectsSlideshow {
+   display: flex;
+   display: inline-block;
+ }
+
+ button{
+   color: palevioletred;
+   font-weight: 200;
+   background-color: white;
+   border: white;
+ }
