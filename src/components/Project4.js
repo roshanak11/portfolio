@@ -1,4 +1,4 @@
-function ProjectThree() {
+function ProjectFour() {
   return (
     <section className="hero is-fullheight-with-navbar is-warning">
       <div className="hero-body">
