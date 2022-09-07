@@ -2,7 +2,7 @@ function Skills() {
   return (
     <section className="hero is-fullheight-with-navbar is-warning">
       <div className="container">
-        <h2 className="title is-1 has-text-centered has-text-black">Skills</h2>
+        <p className="title is-1 has-text-centered has-text-black">Skills</p>
         {/* Row 1 */}
         <div className="columns is-multiline is-mobile">
 
