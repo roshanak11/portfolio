@@ -12,7 +12,7 @@ function Projects() {
         <div className="container">
           <p className="title is-1 has-text-centered has-text-black">
             Projects
-            for each add condensed README with linkts to github readme and deployed project
+            for each add condensed README with links to github readme and deployed project
             <Link to="/project-one">
               <h2>Project One</h2>
             </Link>
