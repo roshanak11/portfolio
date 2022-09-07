@@ -71,7 +71,33 @@ function NatureExercisePhotography() {
               </figure>
               <p className="is-italic">Southern California</p>
             </div>
+          </div>
 
+          <div className="columns is-multiline">
+            <div className="column is-one-quarter">
+              <figure className="image is-4by3">
+                <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662563648/Portfolio/passions/IMG_3817_y4zrra.jpg" alt="Southern California Mountain Sunset"></img>
+              </figure>
+              <p className="is-italic">Southern California</p>
+            </div>
+            <div className="column is-one-quarter">
+              <figure className="image is-4by3">
+                <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662564160/Portfolio/passions/432292_10151418178130257_1007331537_n_10151418178130257_cexpfr.jpg" alt="Santa Barbara Sunrise"></img>
+              </figure>
+              <p className="is-italic">Santa Barbara</p>
+            </div>
+            <div className="column is-one-quarter">
+              <figure className="image is-4by3">
+                <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662565922/Portfolio/passions/IMG_3835_cxfsvr.jpg" alt="United Kingdom Moon"></img>
+              </figure>
+              <p className="is-italic">United Kingdom</p>
+            </div>
+            <div className="column is-one-quarter">
+              <figure className="image is-4by3">
+                <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662565368/Portfolio/passions/IMG_1305_u05onc.jpg" alt="Long Beach Sunset"></img>
+              </figure>
+              <p className="is-italic">Long Beach</p>
+            </div>
 
             {/* Back Button */}
             <Link to="/passions">
@@ -79,7 +105,7 @@ function NatureExercisePhotography() {
             </Link>
           </div>
         </div>
-      </div >
+      </div>
     </section >
   )
 }
