@@ -4,26 +4,25 @@ h2, h3 {
   color: palevioletred;
 }
 
+h4 {
+  font-family: 'Fredoka', sans-serif;
+  color: black;
+}
+
 p {
   font-family: 'Montserrat', sans-serif;
-  color: skyblue;
-  font-style: bold;
+  color: rgb(25, 168, 200);
+  font-weight: 1000;
 }
 
-.mainSection {
-  border-style: dashed;
-  border-color: silver;
+.hero-body {
+  background-color: white;
 }
 
-
-h2:hover, h3:hover {
-color: white;
-background: palevioletred;
+.navbar-background {
+  background-color: palevioletred;
 }
 
- button{
-   color: palevioletred;
-   font-weight: 200;
-   background-color: white;
-   border: white;
- }
+h2:hover, h3:hover, h4:hover {
+color: rgb(210, 72, 118);
+}

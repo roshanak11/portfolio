@@ -7,23 +7,23 @@ function Navbar() {
   return (
     <>
       <header>
-        <nav className="navbar is-light">
+        <nav className="navbar-background">
           <div className="container">
             <div className="navbar-start">
               <Link to="/" className="navbar-item">
-                <h2>Home</h2>
+                <h4>Home</h4>
               </Link>
               <Link to="/about" className="navbar-item">
-                <h2>About</h2>
+                <h4>About</h4>
               </Link>
               <Link to="/projects" className="navbar-item">
-                <h2>Projects</h2>
+                <h4>Projects</h4>
               </Link>
               <Link to="/skills" className="navbar-item">
-                <h2>Skills</h2>
+                <h4>Skills</h4>
               </Link>
-              <Link to='/contact' className="button is-secondary">
-                Contact
+              <Link to='/contact' className="navbar-item">
+                <h4>Contact</h4>
               </Link>
             </div>
           </div>

@@ -7,6 +7,7 @@ function Skills() {
             Skills
             icon + name 
           </p>
+          <p>skills list</p>
         </div>
       </div>
     </section>
