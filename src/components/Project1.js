@@ -7,6 +7,7 @@ function ProjectOne() {
             Project 1:
             <h2><a href="https://roshanak11.github.io/project-1-snake-game/" target="_blank" rel="noopener noreferrer">SNAKE GAME!</a></h2>
           </p>
+          <img src="../images/projects/SnakeGame.jpg" alt="Project 1"></img>
           <p>
             I built a Full Stack E-commerce app selling Shoes using JavaScript, Bulma, React, Python, Flask, and a PostgreSQL database. Users could login/register, post comments, and create/delete shoes.
           </p>
