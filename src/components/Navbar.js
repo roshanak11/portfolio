@@ -16,6 +16,9 @@ function Navbar() {
               <Link to="/about" className="navbar-item">
                 <h4>About</h4>
               </Link>
+              <Link to="/passions" className="navbar-item">
+                <h4>Passions</h4>
+              </Link>
               <Link to="/projects" className="navbar-item">
                 <h4>Projects</h4>
               </Link>

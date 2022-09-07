@@ -9,8 +9,11 @@ import ProjectOne from './components/Project1'
 import ProjectTwo from './components/Project2'
 import ProjectThree from './components/Project3'
 import ProjectFour from './components/Project4'
+import Passions from './components/Passions'
 import NatureAndExercise from './components/NatureAndExercise'
 import Travel from './components/Travel'
+import TheaterArts from './components/TheaterArts'
+import Psychology from './components/Psychology'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
 function App() {
@@ -27,8 +30,11 @@ function App() {
         <Route path="/project-two" element={<ProjectTwo />} />
         <Route path="/project-three" element={<ProjectThree />} />
         <Route path="/project-four" element={<ProjectFour />} />
+        <Route path="/passions" element={<Passions />} />
         <Route path="/nature-and-exercise" element={<NatureAndExercise />} />
         <Route path="/travel" element={<Travel />} />
+        <Route path="/theater-arts" element={<TheaterArts />} />
+        <Route path="/psychology" element={<Psychology />} />
       </Routes>
     </Router>
   )
