@@ -13,16 +13,16 @@ function Projects() {
           <p className="title is-1 has-text-centered has-text-black">
             Projects
             <Link to="/project-one">
-              <h2>Project One: SNAKE GAME!</h2>
+              <h2>Project One: SNAKE GAME!🐍</h2>
             </Link>
             <Link to="/project-two">
-              <h2>Project Two: Harry Potter Library</h2>
+              <h2>Project Two: Harry Potter Library🪄</h2>
             </Link>
             <Link to="/project-three">
-              <h2>Project Three: I Beg Your Garden?!</h2>
+              <h2>Project Three: I Beg Your Garden?!🪴</h2>
             </Link>
             <Link to="/project-four">
-              <h2>Project Four: Shoe Drip</h2>
+              <h2>Project Four: Shoe Drip👟</h2>
             </Link>
           </p>
         </div>
