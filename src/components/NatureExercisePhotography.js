@@ -37,18 +37,45 @@ function NatureExercisePhotography() {
               <p className="is-italic">Southern California</p>
             </div>
             <div className="column is-one-quarter">
-              <figure className="image is-4by5">
+              <figure className="image is-4by3">
                 <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662556330/Portfolio/passions/moonrise_river_hike_waxo47.png" alt="United Kingdom Moon and Sea"></img>
               </figure>
               <p className="is-italic">United Kingdom</p>
             </div>
 
 
-            {/* Back Button */}
-            <Link to="/passions">
-              <h2 className="has-text-right">←Back</h2>
-            </Link>
+            <div className="columns is-multiline">
+              <div className="column is-one-quarter">
+                <figure className="image is-4by3">
+                  <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662556340/Portfolio/passions/fiery_sunset_cz8t8d.png" alt="Southern California Fiery Sunset"></img>
+                </figure>
+                <p className="is-italic">Southern California</p>
+              </div>
+              <div className="column is-one-quarter">
+                <figure className="image is-4by3">
+                  <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662556333/Portfolio/passions/sunset_hike_mountain_zefawp.png" alt="Southern California Sunshine Rays"></img>
+                </figure>
+                <p className="is-italic">Southern California</p>
+              </div>
+              <div className="column is-one-quarter">
+                <figure className="image is-4by3">
+                  <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662556351/Portfolio/passions/london_winter_fog_iloqaa.png" alt="United Kingdom Gloomy Winter"></img>
+                </figure>
+                <p className="is-italic">United Kingdom</p>
+              </div>
+              <div className="column is-one-quarter">
+                <figure className="image is-4by3">
+                  <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662563648/Portfolio/passions/IMG_3820_e7qurv.jpg" alt="Southern California Hike"></img>
+                </figure>
+                <p className="is-italic">Southern California</p>
+              </div>
 
+
+              {/* Back Button */}
+              <Link to="/passions">
+                <h2 className="has-text-right">←Back</h2>
+              </Link>
+            </div>
           </div>
         </div>
       </div >
