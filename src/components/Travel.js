@@ -1,3 +1,6 @@
+import { Link } from "react-router-dom"
+import React from "react"
+
 function Travel() {
   return (
     <section className="hero is-fullheight-with-navbar is-warning">
@@ -45,6 +48,11 @@ function Travel() {
               </h2>
               I plan to travel to as many countries as possible within my lifetime. I enjoy learning about new cultures, meeting people from different backgrounds, and trying dishes from all over the world. I also love learning and practicing different languages. I am bilingual in English and Bengali. I learned how to read and write Bengali at a beginner level from the ages of 12-16. I also studied French for 8 years at a beginner level and received a 6/7 score on the International Baccalaureate French B Standard Level exam. In my spare time, I use Duolingo to refresh my knowledge in French.
               During my childhood, I was also exposed to Hindi and Urdu, and I took one Spanish class in college. My goal is to continue to sharpen and expand my language skills.          </p>
+            {/* Back Button */}
+            <Link to="/passions">
+              <h2 className="has-text-right">←Back</h2>
+            </Link>
+
           </div>
         </div>
       </div>
