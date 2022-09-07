@@ -1,13 +1,11 @@
-function Contact() {
+function Travel() {
   return (
     <section className="hero is-fullheight-with-navbar is-warning">
       <div className="hero-body">
         <div className="container">
           <p className="title is-1 has-text-centered has-text-black">
-            Contact
-            {/* Links */}
-            {/* create form for email */}
-            <h2><a href="mailto:roshanak.ahmed11@gmail.com" target="_blank" rel="noopener noreferrer">Email Me</a></h2>
+          Travel:
+          I have lived in 3 continents and traveled to 15 countries, I plan to visit more.
           </p>
         </div>
       </div>
@@ -15,4 +13,4 @@ function Contact() {
   )
 }
 
-export default Contact
+export default Travel
