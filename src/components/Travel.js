@@ -6,6 +6,7 @@ function Travel() {
           <p className="title is-1 has-text-centered has-text-black">
           Travel:
           I have lived in 3 continents and traveled to 15 countries, I plan to visit more.
+          , learning new languages and learning about different cultures
           </p>
         </div>
       </div>

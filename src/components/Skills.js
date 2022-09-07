@@ -5,6 +5,7 @@ function Skills() {
         <div className="container">
           <p className="title is-1 has-text-centered has-text-black">
             Skills
+            icon + name 
           </p>
         </div>
       </div>

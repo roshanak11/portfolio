@@ -21,6 +21,7 @@ function About() {
             <Link to="/nature-and-exercise">
               <h2>Nature and Exercise</h2>
             </Link>
+            Theater Arts: Acting
           </p>
         </div>
       </div>
