@@ -13,7 +13,7 @@ function Passions() {
               <h2>Travel✈️🌎</h2>
             </Link>
             <Link to="/nature-and-exercise">
-              <h2>Nature and Exercise🧘‍♀️🏔🌙💫🍃</h2>
+              <h2>Nature, Exercise, and Photography🧘‍♀️🏔🌙💫📷🍃</h2>
             </Link>
             <Link to="/theater-arts">
               <h2>Theater Arts🎭</h2>
