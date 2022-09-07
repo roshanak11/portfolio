@@ -1,3 +1,6 @@
+import { Link } from "react-router-dom"
+import React from "react"
+
 function ProjectThree() {
   return (
     <section className="hero is-fullheight-with-navbar is-warning">
@@ -26,7 +29,12 @@ function ProjectThree() {
         {/* Condensed README Description */}
         <div className="card-content">
           <p className="has-text-justified">
-          As a group of four, we created a Full-Stack E-commerce app selling plants in two weeks. The app used React, CSS, JavaScript, Bulma, Node.js, Express, MongoDB, and our own API. The app had CRUD functionality. My responsibilities included building the navbar, login, registration, plant care pages, and Readme on the front-end. I worked with my group on the data, plant model, and configuration on the back-end.          </p>
+            As a group of four, we created a Full-Stack E-commerce app selling plants in two weeks. The app used React, CSS, JavaScript, Bulma, Node.js, Express, MongoDB, and our own API. The app had CRUD functionality. My responsibilities included building the navbar, login, registration, plant care pages, and Readme on the front-end. I worked with my group on the data, plant model, and configuration on the back-end.          </p>
+
+          {/* Back Button */}
+          <Link to="/projects">
+            <h2 className="has-text-right">←Back</h2>
+          </Link>
         </div>
 
       </div>
