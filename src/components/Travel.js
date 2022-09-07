@@ -17,6 +17,7 @@ function Travel() {
           Europe: England, Italy, France
           Asia: Maldives, Singapore, Thailand, Hong Kong, India, Bangladesh, Malaysia, China, Qatar, UAE
           North America: USA, Mexico
+          In my spare time I use DuoLingo to brush up on my French skills
           </p>
         </div>
       </div>
