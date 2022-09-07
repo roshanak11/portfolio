@@ -29,7 +29,7 @@ function ProjectTwo() {
         {/* Condensed README Description */}
         <div className="card-content">
           <p className="has-text-justified">
-            Using pair programming, we built a Harry Potter Library app using an external API, JavaScript, CSS, Bulma, React, Express and Node.js in tweo weeks. Users could access a library of various characters and learn more about each of the characters through the app.
+            Using pair programming, we built a Harry Potter Library app using an external API, JavaScript, CSS, Bulma, React, Express and Node.js in two weeks. Users could access a library of various characters and learn more about each of the characters through the app.
           </p>
 
           {/* Back Button */}
