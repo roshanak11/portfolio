@@ -10,7 +10,7 @@ import ProjectTwo from './components/Project2'
 import ProjectThree from './components/Project3'
 import ProjectFour from './components/Project4'
 import Passions from './components/Passions'
-import NatureAndExercise from './components/NatureAndExercise'
+import NatureExercisePhotography from './components/NatureExercisePhotography'
 import Travel from './components/Travel'
 import TheaterArts from './components/TheaterArts'
 import Psychology from './components/Psychology'
@@ -31,7 +31,7 @@ function App() {
         <Route path="/project-three" element={<ProjectThree />} />
         <Route path="/project-four" element={<ProjectFour />} />
         <Route path="/passions" element={<Passions />} />
-        <Route path="/nature-and-exercise" element={<NatureAndExercise />} />
+        <Route path="/nature-exercise-photography" element={<NatureExercisePhotography />} />
         <Route path="/travel" element={<Travel />} />
         <Route path="/theater-arts" element={<TheaterArts />} />
         <Route path="/psychology" element={<Psychology />} />

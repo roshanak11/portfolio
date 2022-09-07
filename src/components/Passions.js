@@ -12,7 +12,7 @@ function Passions() {
             <Link to="/travel">
               <h2>Travel✈️🌎</h2>
             </Link>
-            <Link to="/nature-and-exercise">
+            <Link to="/nature-exercise-photography">
               <h2>Nature, Exercise, and Photography🧘‍♀️🏔🌙💫📷🍃</h2>
             </Link>
             {/* <Link to="/theater-arts">
