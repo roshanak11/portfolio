@@ -10,6 +10,7 @@ function Home() {
         </div>
         <div className="container">
           <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662546461/Portfolio/passions/sunset_oxv0g3.jpg" alt="Roshanak's Sunset Photography in Santa Barbara" height="400" width="400"></img>
+          <p className="is-italic">Santa Barbara sunset</p>
         </div>
       </div>
     </section>
