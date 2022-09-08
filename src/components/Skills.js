@@ -3,7 +3,7 @@ function Skills() {
     <section className="hero is-fullheight-with-navbar is-warning">
       <div className="hero-body">
         <div className="container">
-          <p className="title is-2 has-text-centered has-text-black">Skills</p>
+          <p className="title is-2 has-text-centered has-text-black">Technical Skills</p>
           {/* Row 1 */}
           <div className="columns is-multiline is-mobile">
 
@@ -115,6 +115,31 @@ function Skills() {
             </div>
           </div>
         </div >
+
+        {/* Additional Skills */}
+        <div className="container">
+          <p className="title is-2 has-text-centered has-text-black">Additional Skills</p>
+          <p className="text-is-right has-text-black">
+            ✮Remote Work
+            <br></br>
+            ✮Indepdenent Work
+            <br></br>
+            ✮Pair Programming
+            <br></br>
+            ✮Teamwork
+            <br></br>
+            ✮Problem Solving
+            <br></br>
+            ✮Communicating
+            <br></br>
+            ✮Time Management
+            <br></br>
+            ✮Ability to learn new concepts weekly
+            <br></br>
+            ✮Languages: English (native), Bengali (native oral, beginner written), French (beginner)
+          </p>
+        </div >
+
       </div>
     </section>
   )
