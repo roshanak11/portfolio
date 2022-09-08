@@ -21,7 +21,7 @@ function ProjectOne() {
           {/* Project Image */}
           <div className="card-image">
             <figure className="image is-2by2">
-              <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662543403/Portfolio/SnakeGame_qib39m.jpg" alt="Project 1"></img>
+              <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662649321/Portfolio/SnakeGame_qib39m.jpg" alt="Project 1"></img>
             </figure>
           </div>
         </p>
