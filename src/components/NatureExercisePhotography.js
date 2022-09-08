@@ -16,7 +16,7 @@ function NatureExercisePhotography() {
             <br></br>
             I enjoy spending time in nature because it allows me to simultaneously connect with Mother Earth, exercise, stay healthy, and capture many sunrises and sunsets with my camera. I enjoy living a healthy lifestyle in my spare time.
             <br></br>
-            <h2>Travel Photography:</h2>
+            <h2>Nature Photography:</h2>
           </p>
 
           <div className="columns is-multiline">
