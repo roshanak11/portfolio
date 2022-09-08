@@ -122,7 +122,7 @@ function Skills() {
           <p className="text-is-right has-text-black">
             ✮Remote Work
             <br></br>
-            ✮Indepdenent Work
+            ✮Independent Work
             <br></br>
             ✮Pair Programming
             <br></br>
