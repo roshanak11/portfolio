@@ -120,27 +120,27 @@ function Skills() {
         <div className="container">
           <p className="title is-2 has-text-centered has-text-black">Additional Skills</p>
           <p className="text-is-right has-text-black">
-            ✮Remote and In-Person Work
+            ✮ Independent Work
             <br></br>
-            ✮Coachable
+            ✮ Pair Programming
             <br></br>
-            ✮Receptive to Feedback
+            ✮ Teamwork
             <br></br>
-            ✮Independent Work
+            ✮ Problem Solving
             <br></br>
-            ✮Pair Programming
+            ✮ Communicating
             <br></br>
-            ✮Teamwork
+            ✮ Remote and In-Person Work
             <br></br>
-            ✮Problem Solving
+            ✮ Time Management
             <br></br>
-            ✮Communicating
+            ✮ Coachability
             <br></br>
-            ✮Time Management
+            ✮ Receptive to Feedback
             <br></br>
-            ✮Ability to learn new concepts weekly
+            ✮ Ability to pick up new concepts quickly
             <br></br>
-            ✮Languages: English (native), Bengali (native oral, beginner written), French (beginner)
+            ✮ Languages: English (native), Bengali (native oral, beginner written), French (beginner)
           </p>
         </div >
 

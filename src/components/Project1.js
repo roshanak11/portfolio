@@ -6,10 +6,8 @@ function ProjectOne() {
     <section className="hero is-fullheight-with-navbar is-warning">
       <div className="hero-body">
         {/* <div className="container"> */}
-        <p className="title is-5 has-text-centered has-text-black">
-        Project 1: SNAKE GAME!
-          {/* Deployed Project */}
-          <h2><a href="https://roshanak11.github.io/project-1-snake-game/" target="_blank" rel="noopener noreferrer">🔗Deployed Project</a></h2>
+        <p className="title is-3 has-text-centered has-text-black">
+          Project 1: SNAKE GAME!
           {/* GitHub README */}
           <figure className="image is-2by2">
             <a href="https://github.com/roshanak11/project-1-snake-game/blob/main/README.md" target="_blank" rel="noopener noreferrer" alt="ReadMe"><h2>🔗ReadMe</h2>
@@ -18,6 +16,8 @@ function ProjectOne() {
               </svg> */}
             </a>
           </figure>
+          {/* Deployed Project */}
+          <h2><a href="https://roshanak11.github.io/project-1-snake-game/" target="_blank" rel="noopener noreferrer">🔗Deployed Project</a></h2>
           {/* Project Image */}
           <div className="card-image">
             <figure className="image is-2by2">

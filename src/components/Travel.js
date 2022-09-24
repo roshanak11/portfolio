@@ -15,25 +15,25 @@ function Travel() {
               <figure className="image is-4by5">
                 <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662556331/Portfolio/passions/me_maldives_qdvyhj.png" alt="Maldives palm tree portrait"></img>
               </figure>
-              <p className="is-italic">Portrait in Maldives</p>
+              <p className="is-italic">Maldives</p>
             </div>
             <div className="column is-one-quarter">
               <figure className="image is-4by5">
                 <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662556343/Portfolio/passions/london_christmas_decoration_psz6hr.png" alt="Christmas in Central London"></img>
               </figure>
-              <p className="is-italic">Christmas in Central London</p>
+              <p className="is-italic">Central London</p>
             </div>
             <div className="column is-one-quarter">
               <figure className="image is-4by5">
                 <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662546460/Portfolio/passions/sunrise_ze11wa.jpg" alt="Sunrise in Santa Barbara"></img>
               </figure>
-              <p className="is-italic">Sunrise in Santa Barbara</p>
+              <p className="is-italic">Santa Barbara</p>
             </div>
             <div className="column is-one-quarter">
               <figure className="image is-4by5">
                 <img src="https://res.cloudinary.com/dgicm5dgb/image/upload/v1662564276/Portfolio/passions/veniceitaly.jpg" alt="Gondola in Venice, Italy"></img>
               </figure>
-              <p className="is-italic">Gondola in Venice, Italy</p>
+              <p className="is-italic">Venice, Italy</p>
             </div>
             <p>
               <br></br>

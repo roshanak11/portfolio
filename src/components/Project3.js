@@ -6,10 +6,10 @@ function ProjectThree() {
     <section className="hero is-fullheight-with-navbar is-warning">
       <div className="hero-body">
         {/* <div className="container"> */}
-        <p className="title is-5 has-text-centered has-text-black">
-          Project 3: I Beg Your Garden?!
-          {/* Deployed Project */}
-          <h2><a href="https://isnt-wodnjsd-awesome.netlify.app/" target="_blank" rel="noopener noreferrer">🔗Deployed Project</a></h2>
+        <p className="title is-3 has-text-centered has-text-black">
+          Project 3:
+          <br></br>
+          I Beg Your Garden?!
           {/* GitHub README */}
           <figure className="image is-2by2">
             <a href="https://github.com/roshanak11/project-3-frontend/blob/main/README-Roshanak.md" target="_blank" rel="noopener noreferrer" alt="ReadMe"><h2>🔗ReadMe</h2>
@@ -18,6 +18,8 @@ function ProjectThree() {
               </svg> */}
             </a>
           </figure>
+          {/* Deployed Project */}
+          <h2><a href="https://isnt-wodnjsd-awesome.netlify.app/" target="_blank" rel="noopener noreferrer">🔗Deployed Project</a></h2>
           {/* Project Image */}
           <div className="card-image">
             <figure className="image is-2by2">
@@ -29,7 +31,7 @@ function ProjectThree() {
         {/* Condensed README Description */}
         <div className="card-content">
           <p className="has-text-justified">
-            As a group of four, we created a Full-Stack E-commerce app selling plants in two weeks. The app used React, CSS, JavaScript, Bulma, Node.js, Express, MongoDB, and our own API. The app had CRUD functionality. My responsibilities included building the navbar, login, registration, plant care pages, and Readme on the front-end. I worked with my group on the data, plant model, and configuration on the back-end.          </p>
+            As a group of four, we created a Full-Stack E-commerce app selling plants in two weeks. The app used React, CSS, JavaScript, Bulma, Node.js, Express, MongoDB, and our own RESTful API. The app had CRUD functionality. My responsibilities included building the navbar, login, registration, plant care pages, and Readme on the front-end. I worked with my group on the data, plant model, and configuration on the back-end.          </p>
 
           {/* Back Button */}
           <Link to="/projects">

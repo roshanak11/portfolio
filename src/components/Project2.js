@@ -6,10 +6,8 @@ function ProjectTwo() {
     <section className="hero is-fullheight-with-navbar is-warning">
       <div className="hero-body">
         {/* <div className="container"> */}
-        <p className="title is-5 has-text-centered has-text-black">
+        <p className="title is-3 has-text-centered has-text-black">
           Project 2: Harry Potter Library
-          {/* Deployed Project */}
-          <h2><a href="https://harry-potter-characters-react-app.netlify.app/" target="_blank" rel="noopener noreferrer">🔗Deployed Project</a></h2>
           {/* GitHub README */}
           <figure className="image is-2by2">
             <a href="https://github.com/roshanak11/project-2-hp/blob/main/README-Roshanak.md" target="_blank" rel="noopener noreferrer" alt="ReadMe"><h2>🔗ReadMe</h2>
@@ -18,6 +16,8 @@ function ProjectTwo() {
               </svg> */}
             </a>
           </figure>
+          {/* Deployed Project */}
+          <h2><a href="https://harry-potter-characters-react-app.netlify.app/" target="_blank" rel="noopener noreferrer">🔗Deployed Project</a></h2>
           {/* Project Image */}
           <div className="card-image">
             <figure className="image is-2by2">
