@@ -17,12 +17,12 @@ function Passions() {
             <Link to="/nature-exercise-photography">
               <h2>✮Nature, Exercise, and Photography🧘‍♀️🏔🌙💫📷🍃</h2>
             </Link>
-            {/* <Link to="/theater-arts">
-              <h2>Theater Arts🎭</h2>
+            <Link to="/theater-arts">
+              <h2>✮Theater Arts🎭</h2>
             </Link>
             <Link to="/psychology">
-              <h2>Psychology🧠</h2>
-            </Link> */}
+              <h2>✮Psychology🧠</h2>
+            </Link>
           </p>
         </div>
       </div>
