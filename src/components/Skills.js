@@ -120,7 +120,11 @@ function Skills() {
         <div className="container">
           <p className="title is-2 has-text-centered has-text-black">Additional Skills</p>
           <p className="text-is-right has-text-black">
-            ✮Remote Work
+            ✮Remote and In-Person Work
+            <br></br>
+            ✮Coachable
+            <br></br>
+            ✮Receptive to Feedback
             <br></br>
             ✮Independent Work
             <br></br>
